@@ -1,0 +1,15 @@
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/bin/Debug/net10.0/Exercice02_Conditions
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/bin/Debug/net10.0/Exercice02_Conditions.deps.json
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/bin/Debug/net10.0/Exercice02_Conditions.runtimeconfig.json
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/bin/Debug/net10.0/Exercice02_Conditions.dll
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/bin/Debug/net10.0/Exercice02_Conditions.pdb
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/Exercice02_Conditions.GeneratedMSBuildEditorConfig.editorconfig
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/Exercice02_Conditions.AssemblyInfoInputs.cache
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/Exercice02_Conditions.AssemblyInfo.cs
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/Exercice02_Conditions.csproj.CoreCompileInputs.cache
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/Exercice02_Conditions.sourcelink.json
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/Exercice02_Conditions.dll
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/refint/Exercice02_Conditions.dll
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/Exercice02_Conditions.pdb
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/Exercice02_Conditions.genruntimeconfig.cache
+/home/cl/Dev-perso/Csharp-training/Exercice02_Conditions/obj/Debug/net10.0/ref/Exercice02_Conditions.dll

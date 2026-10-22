@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exercice03_Boucle_For/1.0.0": {
+        "runtime": {
+          "Exercice03_Boucle_For.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercice03_Boucle_For/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

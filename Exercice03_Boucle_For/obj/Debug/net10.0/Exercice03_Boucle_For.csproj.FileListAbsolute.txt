@@ -1,0 +1,15 @@
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/bin/Debug/net10.0/Exercice03_Boucle_For
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/bin/Debug/net10.0/Exercice03_Boucle_For.deps.json
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/bin/Debug/net10.0/Exercice03_Boucle_For.runtimeconfig.json
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/bin/Debug/net10.0/Exercice03_Boucle_For.dll
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/bin/Debug/net10.0/Exercice03_Boucle_For.pdb
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/Exercice03_Boucle_For.GeneratedMSBuildEditorConfig.editorconfig
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/Exercice03_Boucle_For.AssemblyInfoInputs.cache
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/Exercice03_Boucle_For.AssemblyInfo.cs
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/Exercice03_Boucle_For.csproj.CoreCompileInputs.cache
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/Exercice03_Boucle_For.sourcelink.json
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/Exercice03_Boucle_For.dll
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/refint/Exercice03_Boucle_For.dll
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/Exercice03_Boucle_For.pdb
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/Exercice03_Boucle_For.genruntimeconfig.cache
+/home/cl/Dev-perso/Csharp-training/Exercice03_Boucle_For/obj/Debug/net10.0/ref/Exercice03_Boucle_For.dll
