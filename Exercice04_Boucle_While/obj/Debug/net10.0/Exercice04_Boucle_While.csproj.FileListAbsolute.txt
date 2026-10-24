@@ -1,0 +1,15 @@
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/bin/Debug/net10.0/Exercice04_Boucle_While
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/bin/Debug/net10.0/Exercice04_Boucle_While.deps.json
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/bin/Debug/net10.0/Exercice04_Boucle_While.runtimeconfig.json
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/bin/Debug/net10.0/Exercice04_Boucle_While.dll
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/bin/Debug/net10.0/Exercice04_Boucle_While.pdb
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/Exercice04_Boucle_While.GeneratedMSBuildEditorConfig.editorconfig
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/Exercice04_Boucle_While.AssemblyInfoInputs.cache
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/Exercice04_Boucle_While.AssemblyInfo.cs
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/Exercice04_Boucle_While.csproj.CoreCompileInputs.cache
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/Exercice04_Boucle_While.sourcelink.json
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/Exercice04_Boucle_While.dll
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/refint/Exercice04_Boucle_While.dll
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/Exercice04_Boucle_While.pdb
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/Exercice04_Boucle_While.genruntimeconfig.cache
+/home/cl/Dev-perso/Csharp-training/Exercice04_Boucle_While/obj/Debug/net10.0/ref/Exercice04_Boucle_While.dll

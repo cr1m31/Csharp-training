@@ -1,0 +1,15 @@
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.GeneratedMSBuildEditorConfig.editorconfig
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.AssemblyInfoInputs.cache
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.AssemblyInfo.cs
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.csproj.CoreCompileInputs.cache
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.sourcelink.json
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/bin/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/bin/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.deps.json
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/bin/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.runtimeconfig.json
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/bin/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.dll
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/bin/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.pdb
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.dll
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/refint/Exercice06_Classe_Objets_Constructeurs.dll
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.pdb
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/Exercice06_Classe_Objets_Constructeurs.genruntimeconfig.cache
+/home/cl/Dev-perso/Csharp-training/Exercice06_Classe_Objets_Constructeurs/obj/Debug/net10.0/ref/Exercice06_Classe_Objets_Constructeurs.dll

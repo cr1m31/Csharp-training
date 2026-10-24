@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exercice06_Classe_Objets_Constructeurs/1.0.0": {
+        "runtime": {
+          "Exercice06_Classe_Objets_Constructeurs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercice06_Classe_Objets_Constructeurs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
